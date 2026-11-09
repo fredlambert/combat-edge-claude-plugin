@@ -17,5 +17,7 @@
     "elo",
     "predictions"
   ],
-  "repository": "https://github.com/fredlambert/combat-edge-claude-plugin"
+  "repository": "https://github.com/fredlambert/combat-edge-claude-plugin",
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://combat-edge.com/privacy-policy/#connected-apps"
 }
