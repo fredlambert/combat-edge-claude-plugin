@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "combat-edge": {
+      "type": "http",
+      "url": "https://combat-edge.com/api/mcp"
+    }
+  }
+}

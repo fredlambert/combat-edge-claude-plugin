@@ -1,0 +1,21 @@
+{
+  "name": "combat-edge",
+  "version": "1.0.0",
+  "description": "MMA analysis with Combat Edge data: fighter profiles, the promotion-blind Combat Edge Elo, rankings, event cards, round-by-round stat leaders and a publicly graded prediction model.",
+  "author": {
+    "name": "Combat Edge",
+    "email": "info@combat-edge.com",
+    "url": "https://combat-edge.com"
+  },
+  "homepage": "https://combat-edge.com/developers/",
+  "license": "MIT",
+  "keywords": [
+    "mma",
+    "ufc",
+    "sports",
+    "statistics",
+    "elo",
+    "predictions"
+  ],
+  "repository": "https://github.com/fredlambert/combat-edge-claude-plugin"
+}

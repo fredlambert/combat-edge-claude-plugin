@@ -1,0 +1,17 @@
+{
+  "name": "combat-edge",
+  "owner": {
+    "name": "Combat Edge",
+    "email": "info@combat-edge.com"
+  },
+  "plugins": [
+    {
+      "name": "combat-edge",
+      "source": "./",
+      "description": "MMA analysis with Combat Edge data: fighter profiles, Elo ratings and rankings, event cards, stat leaders and model predictions."
+    }
+  ],
+  "metadata": {
+    "description": "Official Combat Edge plugin: MMA analysis with Combat Edge data in Claude."
+  }
+}
